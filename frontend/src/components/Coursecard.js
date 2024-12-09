@@ -2,8 +2,8 @@ import React from 'react';
 
 export default function CourseCard() {
 return (
-<nav>
-<h1>Course Dashboard</h1>
-</nav>
+<div>
+<h1>Course Card</h1>
+</div>
 );
 }
